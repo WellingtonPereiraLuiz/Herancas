@@ -17,7 +17,6 @@ class Pessoa {
   bool sono = false;
   bool fome = false;
   int i = 0;
-
   int c = 0;
 
   void beberAgua() {
